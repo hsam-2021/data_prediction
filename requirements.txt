@@ -1,0 +1,9 @@
+Flask
+Flask-RESTful
+Flask-SQLAlchemy
+flask-marshmallow
+flask-cors
+marshmallow-sqlalchemy
+SQLAlchemy
+sklearn
+numpy
