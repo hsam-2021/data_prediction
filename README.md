@@ -1,5 +1,6 @@
-# Steps to set up the Data prediction model for loan and customer
+#  Data prediction model for loan and customer
 	
+	Steps for set up	
 	1. git clone https://github.com/hsam-2021/data_prediction.git
 	2. Set up Docker for Linux following the instruction in link https://docs.docker.com/engine/install/ubuntu/
 	3. Go to the folder location in your local where you clone the data_prediction repository
